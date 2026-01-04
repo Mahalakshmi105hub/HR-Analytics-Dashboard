@@ -38,3 +38,13 @@
 - Employees with lower job satisfaction and shorter tenure are more likely to leave
 
 - Attrition patterns vary significantly across age groups and experience levels
+
+# Outcome
+
+The dashboard provides a comprehensive view of workforce data, enabling HR stakeholders to:
+
+- Identify attrition risks early
+
+- Improve employee retention strategies
+
+- Support strategic workforce planning using analytics
