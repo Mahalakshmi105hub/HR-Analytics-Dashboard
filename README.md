@@ -31,3 +31,10 @@
 # Dashboard
 <img width="1326" height="740" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/fe856160-b059-45e5-af91-24e0ddcb0036" />
 
+# Key Insights
+
+- Certain departments and job roles show higher attrition trends
+
+- Employees with lower job satisfaction and shorter tenure are more likely to leave
+
+- Attrition patterns vary significantly across age groups and experience levels
