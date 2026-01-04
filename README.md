@@ -8,12 +8,15 @@
 # Dataset Used
 - <a href="https://github.com/Mahalakshmi105hub/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
 
+# Dashboard
+
+
 # Dashboard Features
 
-Attrition analysis by department, job role, gender, age group, and tenure
+1)Attrition analysis by department, job role, gender, age group, and tenure
 
-KPIs including attrition rate, average age, job satisfaction, and years at company
+2)KPIs including attrition rate, average age, job satisfaction, and years at company
 
-Identification of high-attrition and high-risk employee segments
+3)Identification of high-attrition and high-risk employee segments
 
-Interactive slicers and filters for dynamic exploration
+4)Interactive slicers and filters for dynamic exploration
